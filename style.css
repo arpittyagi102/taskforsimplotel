@@ -1,0 +1,26 @@
+body{
+    margin:0px
+}
+.inner-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    gap:70px;
+    letter-spacing:3px;
+}
+.nav-items{
+    font-size: 25px;
+}
+.bgimg{
+   width: 100%; 
+}
+.icon{
+    width:25px;
+    justify-self: right;
+    position:absolute;
+    right:30px;
+}
+.icon-1{
+    right:70px;
+}
